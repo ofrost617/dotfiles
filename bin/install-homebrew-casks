@@ -1,14 +1,21 @@
 #!/usr/bin/env bash
 
-# General stuff.
-brew cask install 1password
-brew cask install arq
+# General Apps.
 brew cask install dropbox
-brew cask install utorrent
 brew cask install vlc
+brew cask install chrome
+brew cask install slack
+brew cask install evernote
+brew cask install skype
+brew cask install microsoft-lync
+
+# Utlities
+brew cask install coconutbattery
+brew cask install lastpass
+brew cast install nodevpn
 
 # Development stuff.
+brew cask install java
 brew cask install iterm2-nightly
 brew cask install postman
-brew cask install slack
 brew cask install virtualbox
