@@ -120,7 +120,7 @@ defaults write com.apple.dock minimize-to-application -bool true
 defaults write com.apple.dock autohide-delay -float 0
 
 # Dock: automatically hide and show
-defaults write com.apple.dock autohide -bool true
+defaults write com.apple.dock autohide -bool false
 
 # Don't display the annoying prompt when quitting iTerm
 defaults write com.googlecode.iterm2 PromptOnQuit -bool false
