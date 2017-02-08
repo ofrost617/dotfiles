@@ -1,5 +1,5 @@
 # Path to your oh-my-zsh installation.
-export ZSH=/Users/jallardice/.oh-my-zsh
+export ZSH=/Users/ross/.oh-my-zsh
 
 # Check for updates every day instead of every 2 weeks.
 export UPDATE_ZSH_DAYS=1
