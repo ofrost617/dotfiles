@@ -12,7 +12,7 @@ brew cask install microsoft-lync
 # Utlities
 brew cask install coconutbattery
 brew cask install lastpass
-brew cast install nodevpn
+brew cask install nodevpn
 
 # Development stuff.
 brew cask install java
