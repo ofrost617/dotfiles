@@ -16,6 +16,6 @@ brew cask install nodevpn
 
 # Development stuff.
 brew cask install java
-brew cask install iterm2-nightly
+brew cask install iterm2
 brew cask install postman
 brew cask install virtualbox
