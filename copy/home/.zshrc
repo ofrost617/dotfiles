@@ -8,7 +8,7 @@ export UPDATE_ZSH_DAYS=1
 export NODE_VERSION=6
 
 # Set name of the theme to load.
-ZSH_THEME="jallardice"
+ZSH_THEME="ross"
 
 # _ and - will be interchangeable to autocomplete.
 HYPHEN_INSENSITIVE="true"
