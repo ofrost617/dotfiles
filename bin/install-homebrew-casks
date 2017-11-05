@@ -22,6 +22,7 @@ brew cask install keybase
 brew cask install dropbox
 brew cask install tunnelblick
 brew cask install onedrive
+brew cask install arq
 
 # Development stuff.
 brew cask install java
