@@ -138,3 +138,9 @@ defaults write com.twitter.twitter-mac ESCClosesComposeWindow -bool true
 for app in "cfprefsd" "Dock" "Finder" "SystemUIServer" "Twitter"; do
   killall "${app}" > /dev/null 2>&1
 done
+
+# Prevent Time Machine from prompting to use new hard drives as backup volume
+defaults write com.apple.TimeMachine DoNotOfferNewDisksForBackup -bool true
+
+# Disable local Time Machine backups
+hash tmutil &> /dev/null && sudo tmutil disablelocal
