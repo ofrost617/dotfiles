@@ -5,7 +5,7 @@ export ZSH=/Users/ross/.oh-my-zsh
 export UPDATE_ZSH_DAYS=1
 
 # Default Node version.
-export NODE_VERSION=6
+export NODE_VERSION=lts/carbon
 
 # Set name of the theme to load.
 ZSH_THEME="ross"
